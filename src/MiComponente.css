@@ -1,0 +1,16 @@
+
+
+.text-boton{  
+    margin-left: 20px;
+    color: #014040;
+    font-size: 20px;
+}
+.boton {
+    margin-left: 20px;
+    background-color: #014040;
+    color: white;
+    padding: 12px;
+    border-radius: 0.5rem;
+    cursor: pointer;
+  }
+

@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.lista{
+  color: blanchedalmond ;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
